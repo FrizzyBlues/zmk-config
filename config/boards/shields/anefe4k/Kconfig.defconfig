@@ -1,0 +1,6 @@
+if SHIELD_ANEFE4K
+
+config ZMK_KEYBOARD_NAME
+    default "Anefe4K"
+
+endif
