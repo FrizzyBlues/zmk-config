@@ -20,7 +20,7 @@
         bt_layer {
             bindings = <
                 &to 0
-                &bt BT_CLR
+                &bt BT_CLR_ALL
                 &bt BT_SEL 0
                 &bt BT_SEL 1
             >;
