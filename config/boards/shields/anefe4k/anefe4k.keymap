@@ -9,7 +9,7 @@
         default_layer {
 
             bindings = <
-                &tog 1
+                &to 1
                 &kp N2
                 &kp N3
                 &kp N4
@@ -19,7 +19,7 @@
 
         bt_layer {
             bindings = <
-                &tog 0
+                &to 0
                 &bt BT_CLR
                 &bt BT_SEL 0
                 &bt BT_SEL 1
